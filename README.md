@@ -19,12 +19,12 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Table of Contents:
 
-- [Installation](https://github.com/chuck2076/employee_cms_crs#installation)
-- [Usage](https://github.com/chuck2076/employee_cms_crs#usage)
-- [Video](https://github.com/chuck2076/employee_cms_crs#video)
-- [Tech Stack](https://github.com/chuck2076/employee_cms_crs#tech-stack)
-- [Contributors](https://github.com/chuck2076/employee_cms_crs#contributors)
-- [Questions](https://github.com/chuck2076/employee_cms_crs#questions)
+- [Installation](https://github.com/chuck2076/e-commerce-back-end-crs#installation)
+- [Usage](https://github.com/chuck2076/e-commerce-back-end-crs#usage)
+- [Video](https://github.com/chuck2076/e-commerce-back-end-crs#video)
+- [Tech Stack](https://github.com/chuck2076/e-commerce-back-end-crs#tech-stack)
+- [Contributors](https://github.com/chuck2076/e-commerce-back-end-crs#contributors)
+- [Questions](https://github.com/chuck2076/e-commerce-back-end-crs#questions)
 
 ## Installation:
  > The user should clone the repository and open in preferred coding terminal. User will also need to install the NPM packages located in the Tech Stack for it to properly run.
